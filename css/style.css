@@ -234,3 +234,26 @@ body
     	margin-bottom: 15%;
     }
 }
+
+
+@media(max-width: 629px){
+
+	.footer{
+		height: 2%;
+	}
+
+	.srm-logo img{
+		display: none;
+	}
+
+	.seicon-logo {
+		height: 8%;
+		width: 157px;
+		margin-top: -58px;
+	}
+
+	.navbar-toggle
+	{z-index: 1000;
+	}
+	
+}
