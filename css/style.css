@@ -149,6 +149,12 @@ body
 	color: #E03A3A !important;
 }
 
+.android:hover
+{
+	color: #18C327 !important;
+}
+
+
 .footer
 {
 	overflow: hidden;
@@ -162,14 +168,6 @@ body
     height: 3px;
     margin: 0px auto;
     border-bottom: 3px solid #333;
-}
-
-
-.footer span
-{
-	//width: 50%;
-	overflow: hidden;
-	display: inline-block;
 }
 
 .footer .webarch
