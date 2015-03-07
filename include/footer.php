@@ -1,13 +1,31 @@
 <div class="navbar navbar-fixed-bottom footer">
-  <div class="container" style="padding-top: 10px;">
-    <a href="https://www.facebook.com/pages/SEICON/894757557243320"><i class="fa fa-facebook fa-2x fb" style="color:#fff;"></i></a>
-    &nbsp;&nbsp;
-    <a href="#"><i class="fa fa-youtube-play fa-2x youtube" style="color:#fff;"></i></a>
-    &nbsp;&nbsp;
-    <a href="https://play.google.com/store/apps/details?id=com.appenstien.seicon"><i class="fa fa-android fa-2x android" style="color:#fff;"></i></a>
-    
-    <span class="webarch">
-    <img src="images/webarch.png" alt="Webarch" width="60%">
-    </span>
+  <div class="container-fluid" style="padding-top: 10px;">
+    <div class="row container-fluid">
+
+
+
+      <div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 container-fluid" style="margin-top:6px;">
+        <a href="https://www.facebook.com/pages/SEICON/894757557243320"><i class="fa fa-facebook fa-2x fb" style="color:#fff;"></i></a>
+        &nbsp;&nbsp;
+        <a href="#"><i class="fa fa-youtube-play fa-2x youtube" style="color:#fff;"></i></a>
+        &nbsp;&nbsp;
+        <a href="https://play.google.com/store/apps/details?id=com.appenstien.seicon"><i class="fa fa-android fa-2x android" style="color:#fff;"></i></a>
+      </div>
+
+      <div class="col-lg-2 col-md-2 col-sm-0 col-xs-0"></div>
+
+      <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4" style="padding-top:8px;">
+      <span style="color:#FFF; font-size:12px; ">© Copyrights Webarch 2015</span>
+      </div>
+
+      <div class="col-lg-2 col-md-2 col-sm-1 col-xs-1"></div>
+
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3" style="text-align:center">
+        <span class="webarch">
+        <img src="images/webarch.png" alt="Webarch" width="48%" height="80%" >
+        </span>
+      </div>
+
+  </div>
   </div>
 </div>
