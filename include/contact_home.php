@@ -19,7 +19,7 @@
 
 					<b>Publicity: <br></b>Ankit Manglik - 09884667608<br>	<br>						
 
-					<b>PRO: <br></b>Shruthi Vatsyayani – 08754418149<br>	<br>	
+					<b>PRO: <br></b>Shruthi Vatsyayani - 08754418149<br>	<br>	
 				</p>
 			</div>
 		</div>

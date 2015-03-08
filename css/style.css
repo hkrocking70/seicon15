@@ -244,14 +244,12 @@ body
 
 @media(max-width: 629px){
 
-<<<<<<< HEAD
+
 	.footer{
 		height: 2%;
 	}
 
-=======
->>>>>>> f09756d317f77c1305baedd9233c3b2370b79d2e
-	.srm-logo img{
+	.srm-logo {
 		display: none;
 	}
 
@@ -265,4 +263,18 @@ body
 	{z-index: 1000;
 	}
 	
+	.copyright
+	{
+		display: none;
+	}
+
+	.webarch img
+	{
+		width: 100%;
+		padding-top: 6px;
+	}
+	.fa-2x
+	{
+		font-size: 1em;
+	}
 }
