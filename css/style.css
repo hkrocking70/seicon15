@@ -49,7 +49,7 @@
 
     .wrapper
     {
-    	margin-bottom: 15%;
+    	margin-bottom: 30%;
     }
 }
 
@@ -60,7 +60,7 @@
 
 	.wrapper
     {
-    	margin-bottom: 15%;
+    	margin-bottom: 30%;
     }
 
 	.lead
@@ -82,7 +82,7 @@ body
 {
 	color: #333;
 	margin-top: 10px;
-	margin-bottom: 5%;
+	margin-bottom: 10%;
 	margin-top: 0px;
 	//background: rgba(255,255,255,0.9);
 	//height: 100%;
@@ -160,6 +160,12 @@ body
 	overflow: hidden;
 	background: #333;
 	box-shadow: none;
+	color: #fff;
+}
+
+.footer div
+{
+	text-align: center;
 }
 
 .inner
@@ -221,7 +227,7 @@ body
 
 	.wrapper
 	{
-		//margin-bottom: 20%;
+		margin-bottom: 30%;
 	}
 
 	.footer span
@@ -231,17 +237,20 @@ body
 
 	.wrapper
     {
-    	margin-bottom: 15%;
+    	margin-bottom: 30%;
     }
 }
 
 
 @media(max-width: 629px){
 
+<<<<<<< HEAD
 	.footer{
 		height: 2%;
 	}
 
+=======
+>>>>>>> f09756d317f77c1305baedd9233c3b2370b79d2e
 	.srm-logo img{
 		display: none;
 	}
