@@ -46,7 +46,7 @@
         </div>
         
         <div class="col-md-2 srm-logo" style="margin-top:5px;">
-            <img src="images/srm.png" width="130" height="11%">
+          <a href="http://www.srmuniv.ac.in" target="_blank">  <img src="images/srm.png" width="130" height="11%"></a>
         </div>
 
     

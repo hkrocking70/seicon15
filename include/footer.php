@@ -27,7 +27,7 @@
 
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6" style="text-align:center">
         <span class="webarch">
-        <img src="images/webarch.png" alt="Webarch" width="48%"  >
+      <a href="http://www.webarchsrm.com" target="_blank">  <img src="images/webarch.png" alt="Webarch" width="48%"  > </a>
         </span>
       </div>
 
