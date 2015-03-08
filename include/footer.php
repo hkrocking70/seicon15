@@ -5,7 +5,7 @@
     <a href="#"><i class="fa fa-youtube-play fa-2x youtube" style="color:#fff;"></i></a>
     &nbsp;&nbsp;
     <a href="https://play.google.com/store/apps/details?id=com.appenstien.seicon"><i class="fa fa-android fa-2x android" style="color:#fff;"></i></a>
-    
+    <span style='color:#fff; margin-left:102px;'>&copy; Copyright-WEBARCH-2015</span>
     <span class="webarch">
     <img src="images/webarch.png" alt="Webarch" width="60%">
     </span>
