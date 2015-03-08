@@ -45,8 +45,13 @@
             </div>
         </div>
         
+<<<<<<< HEAD
         <div class="col-md-2 srm-logo" style="margin-top:10px;">
           <a href="http://www.srmuniv.ac.in" target="_blank">  <img src="images/srm.png" width="130" height="11%"></a>
+=======
+        <div class="col-md-2 srm-logo">
+            <img src="images/logo.gif" height="85px">
+>>>>>>> 01cf20ad8d342f53315ec14210c26f8c73309c0e
         </div>
 
     

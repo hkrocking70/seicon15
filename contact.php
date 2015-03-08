@@ -1,6 +1,17 @@
     <title>SEICON 2015</title>
     <link rel="shortcut icon" href="images/favicon.ico"> 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <!-- google analytics code -->
+                <script>
+                     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                    ga('create', 'UA-57882122-2', 'auto');        
+                    ga('send', 'pageview');
+            </script>
+        <!--  -->
     <script src="js/jquery.min.js"></script>
     <script src="js/jquery-ui.js"></script>
     <!-- Latest compiled and minified CSS -->
