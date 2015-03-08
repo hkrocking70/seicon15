@@ -49,7 +49,7 @@
 
     .wrapper
     {
-    	margin-bottom: 15%;
+    	margin-bottom: 30%;
     }
 }
 
@@ -60,7 +60,7 @@
 
 	.wrapper
     {
-    	margin-bottom: 15%;
+    	margin-bottom: 30%;
     }
 
 	.lead
@@ -82,7 +82,7 @@ body
 {
 	color: #333;
 	margin-top: 10px;
-	margin-bottom: 5%;
+	margin-bottom: 10%;
 	margin-top: 0px;
 	//background: rgba(255,255,255,0.9);
 	//height: 100%;
@@ -160,6 +160,12 @@ body
 	overflow: hidden;
 	background: #333;
 	box-shadow: none;
+	color: #fff;
+}
+
+.footer div
+{
+	text-align: center;
 }
 
 .inner
@@ -170,11 +176,7 @@ body
     border-bottom: 3px solid #333;
 }
 
-.footer .webarch
-{
-	float: right;
-	margin-right: -15%;
-}
+
 
 .footer .connect
 {
@@ -182,7 +184,7 @@ body
 	color: #000;
 }
 
-.item 
+.item
 {
 	color: #fff;
 	//background: rgba(0,0,0,0.8);
@@ -225,7 +227,7 @@ body
 
 	.wrapper
 	{
-		//margin-bottom: 20%;
+		margin-bottom: 30%;
 	}
 
 	.footer span
@@ -235,6 +237,25 @@ body
 
 	.wrapper
     {
-    	margin-bottom: 15%;
+    	margin-bottom: 30%;
     }
+}
+
+
+@media(max-width: 629px){
+
+	.srm-logo img{
+		display: none;
+	}
+
+	.seicon-logo {
+		height: 8%;
+		width: 157px;
+		margin-top: -58px;
+	}
+
+	.navbar-toggle
+	{z-index: 1000;
+	}
+	
 }
