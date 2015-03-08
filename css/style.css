@@ -170,7 +170,11 @@ body
     border-bottom: 3px solid #333;
 }
 
-
+.footer .webarch
+{
+	float: right;
+	margin-right: -15%;
+}
 
 .footer .connect
 {
@@ -178,7 +182,7 @@ body
 	color: #000;
 }
 
-.item
+.item 
 {
 	color: #fff;
 	//background: rgba(0,0,0,0.8);
