@@ -45,8 +45,8 @@
             </div>
         </div>
         
-        <div class="col-md-2 srm-logo">
-            <img src="images/logo.gif" width="110" height="12%">
+        <div class="col-md-2 srm-logo" style="margin-top:5px;">
+            <img src="images/srm.png" width="130" height="11%">
         </div>
 
     
