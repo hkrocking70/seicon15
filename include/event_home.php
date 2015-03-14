@@ -38,8 +38,18 @@
 						The ModelExpo would take place on the 20th of March where teams would have to explain the complete working of the model, the implementation and feasibility of manufacturing on an industrial scale. A hard copy of the submitted abstract must be presented with the model on display.<br>
 
 						For this event a team of minimum 2 members and a maximum of 4 members is allowed. 
-</p>
+						</p>
 					</li>
+
+					<li><b>Presentacion</b><br><br>
+						<p>
+							The Presentacion event is a competition where paper by teams detailing the research work based on the chosen theme. This event is similar to an exposition for sharing your ideas and research in front of a large audience.
+							The paper should contain information regarding the team's research work and should be supported with related statistics, surveys etc. Explaining the paper will be an important judging criterion. <br>
+
+							For this event which will be held on the 20<sup>th</sup> of March, a team of minimum 1 member and a maximum of 2 members are allowed.
+						</p>
+					</li>
+
 					
 				</ol>
 			</div>

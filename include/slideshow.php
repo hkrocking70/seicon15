@@ -9,12 +9,12 @@
   <div class="carousel-inner" role="listbox">
     <div class="item active">
       <center>
-        <img src="images/logo2.png" class="img-responsive" alt="Webarch" width="60%">
+        <img src="images/logo2.png" class="img-responsive" alt="Webarch" width="">
       </center>
     </div>
     <div class="item">
       <center>
-        <img src="images/logo.jpg" class="img-responsive" alt="Webarch" width="60%">
+        <img src="images/logo.jpg" class="img-responsive" alt="Webarch" width="">
       </center>
     </div>
   </div>
